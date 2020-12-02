@@ -7,7 +7,7 @@
     <TargetFrameworks>net45;netstandard1.0;netstandard2.0;netstandard2.1</TargetFrameworks>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     <AssemblyName>Be.IO</AssemblyName>
-    <PackageId>Be.IO</PackageId>
+    <PackageId>Be.IO-multi</PackageId>
     <PackageTags>big-endian;bigendian;big;endian;binary;reader;writer;binaryreader;binarywriter;.net;c#;csharp</PackageTags>
     <PackageProjectUrl>https://github.com/jamesqo/Be.IO</PackageProjectUrl>
     <PackageLicenseUrl>https://github.com/jamesqo/Be.IO/blob/master/license.bsd</PackageLicenseUrl>
