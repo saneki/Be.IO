@@ -10,8 +10,15 @@
     <PackageId>Be.IO-multi</PackageId>
     <PackageTags>big-endian;bigendian;big;endian;binary;reader;writer;binaryreader;binarywriter;.net;c#;csharp</PackageTags>
     <PackageProjectUrl>https://github.com/jamesqo/Be.IO</PackageProjectUrl>
-    <PackageLicenseUrl>https://github.com/jamesqo/Be.IO/blob/master/license.bsd</PackageLicenseUrl>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageLicenseFile>license.bsd.txt</PackageLicenseFile>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\..\license.bsd.txt">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
   
 </Project>

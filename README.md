@@ -54,4 +54,4 @@ Character-based methods like `ReadString` still read characters in little-endian
 
 ## License?
 
-Be.IO is licensed under the [BSD simplified license](license.bsd).
+Be.IO is licensed under the [BSD simplified license](license.bsd.txt).
