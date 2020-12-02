@@ -12,6 +12,7 @@
     <PackageProjectUrl>https://github.com/jamesqo/Be.IO</PackageProjectUrl>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageLicenseFile>license.bsd.txt</PackageLicenseFile>
+    <RepositoryUrl>https://github.com/saneki/Be.IO</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
